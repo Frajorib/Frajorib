@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am starting to learn about Git and GitHub. I heard about this from uploading repositories to Kode. 
 <!--
 **Frajorib/Frajorib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
